@@ -5,6 +5,7 @@ Este servidor contiene 2 rutas establecidas y declaradas con el modulo de Router
 
 En primer lugar para generar el package.json del proyecto utilizaremos la instuccion en consola:
 -> npm init --yes
+![alt text](image.png)
 
 Para este ejemplo solo utilizaremos el paquete de express desde npm,
 utilizando la instruccion:
