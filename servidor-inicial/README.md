@@ -42,5 +42,8 @@ generado con node.
 
 El proyecto deberia verse algo asi:
 ![alt text](README.img/servidor.png)
+![alt text](README.img/archivo-arranque.png)
 
-
+Para levantar el servicio es necesario utilizar la siguiente instruccion
+-> npm run start
+![alt text](README.img/servidor-run.png)
