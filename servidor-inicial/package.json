@@ -2,9 +2,10 @@
   "name": "servidor-inicial",
   "version": "1.0.0",
   "description": "Este proyecto tiene como finalidad, presentar una base limpia del un servidor del framework de express.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
